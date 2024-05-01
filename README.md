@@ -6,7 +6,6 @@
 ![6](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/a4777354-8460-487f-9235-b2ea77336174)
 ![7](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/7b0cc1b5-6475-4d20-b39b-31bfec28b3d8)
 ![8](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/560a12a2-3528-4474-945b-8ea1dc847)
-
 ![9](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/5d73a9dc-ba6e-4821-a524-b09dffda64a9c67)
 ![10](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/78abe51b-d8c7-4e6c-8962-0e74ed54ed40)
 ![11](https://github.com/abburisaikarthik/Yoga-Pose-Estimation/assets/83510357/3abf8b22-6ac4-4f77-b9bf-4fdad767d749)
